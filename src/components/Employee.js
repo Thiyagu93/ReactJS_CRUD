@@ -1,15 +1,15 @@
 const Employe = [
     {
         id : "1",
-        Name: "Thiyagu",
+        Name: "Marc",
         Age: "23",
     },{
         id: "2",
-        Name: "Vishva",
+        Name: "Fabi",
         Age: "19"
     },{
         id: "3",
-        Name: "Ragu",
+        Name: "Jack",
         Age: "54"
     }
 ]
